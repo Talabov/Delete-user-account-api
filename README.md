@@ -116,6 +116,3 @@ Telegram: [@talabovali](https://t.me/talabovali)
 ---
 
 **Ready for production and monetization. 100% tested.**
-EOF
-
-echo "README.md создан — всё как надо, со скринами и ссылками."
